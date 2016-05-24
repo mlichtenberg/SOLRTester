@@ -12,7 +12,10 @@ If using a Docker container to host SOLR, use this instead:
 The four functions provided by this application are as follows:
 
   Add All Data = indexes the contents of the Data folder in your SOLR instance (do this first)
+  
   Delete All Data = clears the contents of the SOLR index
+  
   Submit Query = submits a query against your SOLR instance
+  
   Delete = deletes the data specified in the "Query" text box from the SOLR index
 
